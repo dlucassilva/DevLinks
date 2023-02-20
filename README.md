@@ -21,7 +21,7 @@
   <img alt="DevLinks" src=".github/preview.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+##  💻 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -30,13 +30,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 🔗 Projeto
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 - [Visite o projeto online](https://dlucassilva.github.io/DevLinks/)
 
-## 🔖 Layout
+## 📑 Layout
 
 Você pode visualizar o layout do projeto através [link](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
